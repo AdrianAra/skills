@@ -29,18 +29,13 @@ export LEGALIZE_ES_REPO=/home/usuario/repos/legalize-es
 ## Estructura esperada del repositorio legalize-es
 
 La skill espera que LEGALIZE_ES_REPO apunte a la raíz del repositorio legalize-es:
+
 legalize-es/
-
 ├── es/
-
 ├── es-an/
-
 ├── es-ar/
-
 ├── es-cm/
-
 ├── es-vc/
-
 └── ...
 
 La carpeta es contiene legislación estatal. Las carpetas es-* contienen legislación autonómica.
