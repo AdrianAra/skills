@@ -1,0 +1,5 @@
+interface:
+  display_name: Legalize ES Consultor
+  short_description: Consulta legislación española y autonómica en un clon local de Legalize ES.
+  icon: scale
+  color: blue
